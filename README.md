@@ -1,1 +1,1 @@
-# ltv_forecasting
+# Customer Lifetime Value Forecasting using LSTM
